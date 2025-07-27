@@ -15,7 +15,7 @@ const AboutPage = () => {
         </div>
         <div className="col-span-1 text-[20px] flex justify-center items-center">
           <p>
-            I'm a <span className="text-green-700">Full-Stack Developer</span>{" "}
+            I&apos;m a <span className="text-green-700">Full-Stack Developer</span>
             with a strong passion for backend development, API design, and
             building scalable, efficient systems.
             <br />
@@ -25,7 +25,7 @@ const AboutPage = () => {
             and MongoDB. At the same time, I leverage modern UI libraries to
             deliver smooth and responsive frontend experiences. <br />
             <br />
-            I'm always exploring ways to optimize performance, integrate tools,
+            I&apos;m always exploring ways to optimize performance, integrate tools,
             and create reliable, maintainable system architectures. I thrive on
             contributing to meaningful projects—especially those that push me to
             learn, collaborate, and make a lasting impact.
