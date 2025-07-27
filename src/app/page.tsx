@@ -1,10 +1,8 @@
-import Navbar from "@/componets/Navbar";
 import HeroSection from "@/componets/HeroSection";
 import CountSection from "@/componets/CountSection";
 import ServiceSection from "@/componets/ServiceSection";
 import EducationAndSkillSection from "@/componets/EducationAndSkillSection";
 import ProjectSection from "@/componets/ProjectSection";
-import Footer from "@/componets/Footer";
 
 export default function Home() {
   return (

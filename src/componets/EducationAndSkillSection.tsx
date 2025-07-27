@@ -21,7 +21,7 @@ const EducationAndSkillSection = () => {
               2023-2024: <span className="text-green-600 font-bold">BCA</span>
             </h1>
             <h1 className="ml-[170px] text-gray-700 text-[22px]">
-              Bachelor's in Computer Application from Vidya Bhawan Rural
+              Bachelor&apos;s in Computer Application from Vidya Bhawan Rural
               Institute Udaipur, Rajasthan
             </h1>
           </div>

@@ -5,7 +5,7 @@ const ContactPage = () => {
     <div className="p-8">
       <h1 className="text-center text-[40px] mt-4">Contact me</h1>
       <h1 className="text-center text-[22px] mt-6">
-        I’m here for you, feel free to contact me{" "}
+        I&apos;m here for you, feel free to contact me{" "}
         <span className="text-green-600">anytime</span>
       </h1>
       <p className="text-center text-[16px]">
